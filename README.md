@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Lake LI 👋
+
+🔭 I’m currently working on machine learning and deep learning as well as backend developing
+
+[![LiRunyi2001's github stats](https://github-readme-stats.vercel.app/api?username=LiRunyi2001&count_private=true&show_icons=true)](https://github.com/LiRunyi2001)
 
 <!--
 **LiRunyi2001/LiRunyi2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
